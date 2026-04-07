@@ -1,0 +1,15 @@
+node_modules/
+.turbo/
+dist/
+.expo/
+.env
+.env.local
+.env.*.local
+.dev.vars
+local.db
+local.db-journal
+local.db-shm
+local.db-wal
+*.log
+.DS_Store
+.wrangler/
