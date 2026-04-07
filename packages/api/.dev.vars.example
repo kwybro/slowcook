@@ -1,0 +1,16 @@
+# Turso / libSQL
+DATABASE_URL="file:../data-ops/local.db"
+DATABASE_AUTH_TOKEN=""
+
+# Gemini AI
+GEMINI_API_KEY=""
+
+# better-auth
+BETTER_AUTH_SECRET="generate-a-random-32-byte-string-here"
+BETTER_AUTH_URL="http://localhost:8787"
+
+# Apple Sign In (optional — leave empty for email/password dev mode)
+APPLE_CLIENT_ID=""
+APPLE_TEAM_ID=""
+APPLE_KEY_ID=""
+APPLE_PRIVATE_KEY=""
